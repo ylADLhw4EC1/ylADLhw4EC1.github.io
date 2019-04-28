@@ -7,3 +7,20 @@
     border: 1px solid rgba(0, 0, 0, .2);
   }
 
+  .light_blue {
+    background: #9ce3f5;
+  }
+  
+    .blue {
+    background: #1f5fc2;
+  }
+  
+    .dark_blue {
+    background: #0c1e62;
+  }
+  
+    .tensorflow_orange {
+    background: #e9a32f;
+  }
+  
+  
