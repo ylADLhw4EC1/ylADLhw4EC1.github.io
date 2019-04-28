@@ -1,20 +1,9 @@
 
-ul {
-    margin: 20px;
-}
+.foo {
+    float: left;
+    width: 200px;
+    height: 200px;
+    margin: 5px;
+    border: 1px solid rgba(0, 0, 0, .2);
+  }
 
-.input-color {
-    position: relative;
-}
-.input-color input {
-    padding-left: 20px;
-}
-.input-color .color-box {
-    width: 10px;
-    height: 10px;
-    display: inline-block;
-    background-color: #ccc;
-    position: absolute;
-    left: 5px;
-    top: 5px;
-}
